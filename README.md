@@ -10,7 +10,11 @@ Web de Chistes - Este proyecto es una página web que muestra chistes de manera 
 
 cd Sprint-4
 
-Instala las dependencias: Asegúrate de tener instaladas las dependencias necesarias: npm install
+Instala las dependencias: Asegúrate de tener instaladas las dependencias necesarias:
+npm install
+
+Compila Typescript:
+npm run build
 
 Ejecuta el proyecto localmente: npm start
 
