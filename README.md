@@ -6,9 +6,9 @@ Web de Chistes - Este proyecto es una página web que muestra chistes de manera 
 
 📋 Requisitos Node.js (v14.0.0 o superior) Un navegador web moderno Conexión a Internet (para las llamadas a APIs externas)
 
-🛠️ Instalación Clona el repositorio: git clone https://github.com/pmiramonteso/Sprint-4.git
+🛠️ Instalación Clona el repositorio: git clone https://github.com/pmiramonteso/sprint-4.git
 
-cd Sprint-4
+cd sprint-4
 
 Instala las dependencias: Asegúrate de tener instaladas las dependencias necesarias:
 npm install
