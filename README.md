@@ -13,9 +13,6 @@ cd sprint-4
 Instala las dependencias: Asegúrate de tener instaladas las dependencias necesarias:
 npm install
 
-Compila Typescript:
-npm run build
-
 Ejecuta el proyecto localmente: npm start
 
 ▶️ Ejecución Una vez instalado, abre index.html en tu navegador favorito o usa el servidor de desarrollo que hayas configurado en la instalación.
