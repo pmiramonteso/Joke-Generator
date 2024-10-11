@@ -8,7 +8,7 @@ Web de Chistes - Este proyecto es una página web que muestra chistes de manera 
 
 🛠️ Instalación Clona el repositorio: git clone https://github.com/pmiramonteso/sprint-4.git
 
-cd sprint-4
+Navega por la carpeta: cd sprint-4
 
 Instala las dependencias: Asegúrate de tener instaladas las dependencias necesarias:
 npm install
